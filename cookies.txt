@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+store.steampowered.com	TRUE	/	FALSE	1999999999	steamCountry	VN%7Cb32721e24e2975d69a375c2af5f663c6
+store.steampowered.com	TRUE	/	FALSE	1999999999	browserid	606405435860104270
+store.steampowered.com	TRUE	/	FALSE	1999999999	sessionid	0b3e0aa8fbce12c427aa237e
+store.steampowered.com	TRUE	/	FALSE	1999999999	recentapps	%7B%22774171%22%3A1745141560%7D
+store.steampowered.com	TRUE	/	FALSE	1999999999	SameSite	None
+
